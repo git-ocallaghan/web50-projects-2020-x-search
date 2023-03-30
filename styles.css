@@ -4,36 +4,31 @@
     padding: 25px;
 
 }
-.footer1
-{
-    position: absolute;
-    left: 0;
-    bottom: 25;
-    width: 100%;
-    background-color: #dadce0;
-    color: #70757a;
-    padding-left: 15px;
-    font-family: arial,sans-serif;
-    border-top: 100px;
-    border-top:black;
-}
+
 
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #dadce0;
-    color: #70757a;
-    padding-left: 15px;
+    height: 25px;
+    background-color: #F4F1F0;
+    color: #dadce0;
+    padding: 15px;
     font-family: arial,sans-serif;
     border-top: 100px;
     border-top:black;
   }
 
-  .footer.left{
-    text-align: left;
+  .footer.right{
+    text-align: right;
+    text-decoration: none;
+    color: #70757a;
+    padding: 15px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
   }
+
 
 
 .logo{
@@ -85,6 +80,7 @@
 
 .link_footer{
 
+    text-align: left;
     text-decoration: none;
     color: #70757a;
     padding: 15px;
