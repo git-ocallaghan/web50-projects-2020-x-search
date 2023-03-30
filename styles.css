@@ -20,15 +20,6 @@
     border-top:black;
   }
 
-  .footer.right{
-    text-align: right;
-    text-decoration: none;
-    color: #70757a;
-    padding: 15px;
-    font-family: arial,sans-serif;
-    font-size: 14px;
-  }
-
 
 
 .logo{
@@ -62,7 +53,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 135px;
-    background-color: blue;
+    background-color: #0080ff;
     color: #edebeb;
     border: 2px solid #edebeb;
     width: 150px;
