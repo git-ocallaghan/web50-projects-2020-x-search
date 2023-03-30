@@ -1,3 +1,11 @@
+
+.header{
+    text-align: right;
+    padding: 25px;
+
+}
+
+
 .logo{
     position: absolute;
     top: 30%;
@@ -34,4 +42,13 @@
     border: 2px solid #edebeb;
     width: 150px;
     height: 32.5px;
+}
+
+.link{
+
+    text-decoration: none;
+    color: rgba(0,0,0,.87);
+    padding: 5px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
 }
